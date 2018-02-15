@@ -10,3 +10,4 @@
 - [x] 019 Remove Nth Node From End of List
 - [x] 020 Valid Parentheses
 - [x] 021 Merge Two Sorted Lists
+- [x] 022 Generate Parentheses
