@@ -8,3 +8,4 @@
 - [x] 011 Container With Most Water
 - [x] 017 Letter Combinations of a Phone Number
 - [x] 019 Remove Nth Node From End of List
+- [x] 020 Valid Parentheses
