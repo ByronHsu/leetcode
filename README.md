@@ -1,5 +1,6 @@
 # Leetcode practice
-> Solved: 14
+> Solved: 15
+> Try: 0
 
 - [x] 001 Two Sum
 - [x] 002 Add Two Numbers
@@ -15,3 +16,4 @@
 - [x] 022 Generate Parentheses
 - [x] 010 Regular Expression Matching
 - [x] 031 Next Permutation
+- [x] 032 Longest Valid Parentheses
