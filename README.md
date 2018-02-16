@@ -1,4 +1,6 @@
 # Leetcode practice
+> Solved: 14
+
 - [x] 001 Two Sum
 - [x] 002 Add Two Numbers
 - [x] 003 Longest Substring Without Repeating Characters    
