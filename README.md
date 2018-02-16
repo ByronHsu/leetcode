@@ -12,3 +12,4 @@
 - [x] 021 Merge Two Sorted Lists
 - [x] 022 Generate Parentheses
 - [x] 010 Regular Expression Matching
+- [x] 031 Next Permutation
