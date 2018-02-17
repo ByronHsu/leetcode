@@ -1,5 +1,5 @@
 # Leetcode practice
-> Solved: 16
+> Solved: 17
 > Try: 0
 
 - [x] 001 Two Sum
@@ -18,3 +18,4 @@
 - [x] 031 Next Permutation
 - [x] 032 Longest Valid Parentheses
 - [x] 023 Merge k Sorted Lists
+- [x] 033 Search in Rotated Sorted Array
