@@ -1,20 +1,20 @@
 # Leetcode practice
-- [x] 001 Two Sum
-- [x] 002 Add Two Numbers
-- [x] 003 Longest Substring Without Repeating Characters    
-- [x] 004 Median of Two Sorted Arrays
-- [x] 005 Longest Palindromic Substring
-- [x] 015 3Sum
-- [x] 011 Container With Most Water
-- [x] 017 Letter Combinations of a Phone Number
-- [x] 019 Remove Nth Node From End of List
-- [x] 020 Valid Parentheses
-- [x] 021 Merge Two Sorted Lists
-- [x] 022 Generate Parentheses
-- [x] 010 Regular Expression Matching
-- [x] 031 Next Permutation
-- [x] 032 Longest Valid Parentheses
-- [x] 023 Merge k Sorted Lists
-- [x] 033 Search in Rotated Sorted Array
-- [x] 039 Combination sum
-- [x] 034 Search for a Range
+- [x] [001 Two Sum](001-two-sum)
+- [x] [002 Add Two Numbers](002-add-two-numbers.py)
+- [x] [003 Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.py)    
+- [x] [004 Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.py)
+- [x] [005 Longest Palindromic Substring](005-longest-palindromic-substring.py)
+- [x] [015 3Sum](015-3sum.py)
+- [x] [011 Container With Most Water](011-container-with-most-water.py)
+- [x] [017 Letter Combinations of a Phone Number](017-letter-combinations-of-a-phone-number.py)
+- [x] [019 Remove Nth Node From End of List](019-remove-nth-node-from-end-of-list.py)
+- [x] [020 Valid Parentheses](020-valid-parentheses.py)
+- [x] [021 Merge Two Sorted Lists](021-merge-two-sorted-lists.py)
+- [x] [022 Generate Parentheses](022-generate-parentheses.py)
+- [x] [010 Regular Expression Matching](010-regular-expression-matching.py)
+- [x] [031 Next Permutation](031-next-permutation.py)
+- [x] [032 Longest Valid Parentheses](032-longest-valid-parentheses.py)
+- [x] [023 Merge k Sorted Lists](023-merge-k-sorted-lists.py)
+- [x] [033 Search in Rotated Sorted Array](033-search-in-rotated-sorted-array.py)
+- [x] [039 Combination sum](039-combination-sum.py)
+- [x] [034 Search for a Range](034-search-for-a-range.py)
