@@ -1,7 +1,4 @@
 # Leetcode practice
-> Solved: 17
-> Try: 0
-
 - [x] 001 Two Sum
 - [x] 002 Add Two Numbers
 - [x] 003 Longest Substring Without Repeating Characters    
@@ -19,3 +16,5 @@
 - [x] 032 Longest Valid Parentheses
 - [x] 023 Merge k Sorted Lists
 - [x] 033 Search in Rotated Sorted Array
+- [x] 039 Combination sum
+- [x] 034 Search for a Range
