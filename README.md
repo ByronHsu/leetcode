@@ -1,5 +1,5 @@
 # Leetcode practice
-- [x] [001 Two Sum](001-two-sum)
+- [x] [001 Two Sum](001-two-sum.py)
 - [x] [002 Add Two Numbers](002-add-two-numbers.py)
 - [x] [003 Longest Substring Without Repeating Characters](003-longest-substring-without-repeating-characters.py)    
 - [x] [004 Median of Two Sorted Arrays](004-median-of-two-sorted-arrays.py)
