@@ -20,3 +20,4 @@
 - [x] [034 Search for a Range](034-search-for-a-range.py)
 - [x] [042 Trapping Rain Water](042-trapping-rain-water.py)
 - [x] [046 Permutations](046-permutations.py)
+- [x] [049 Group Anagrams](049-group-anagrams.py)
