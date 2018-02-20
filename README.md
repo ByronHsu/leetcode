@@ -18,3 +18,5 @@
 - [x] [033 Search in Rotated Sorted Array](033-search-in-rotated-sorted-array.py)
 - [x] [039 Combination sum](039-combination-sum.py)
 - [x] [034 Search for a Range](034-search-for-a-range.py)
+- [x] [042 Trapping Rain Water](042-trapping-rain-water.py)
+- [x] [046 Permutations](046-permutations.py)
