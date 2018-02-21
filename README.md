@@ -21,3 +21,5 @@
 - [x] [042 Trapping Rain Water](042-trapping-rain-water.py)
 - [x] [046 Permutations](046-permutations.py)
 - [x] [049 Group Anagrams](049-group-anagrams.py)
+- [x] [048 Rotate Image](048-rotate-image.py)
+- [x] [053 Maximum Subarray](053-maximum-subarray.py)
