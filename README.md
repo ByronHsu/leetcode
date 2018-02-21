@@ -25,3 +25,4 @@
 - [x] [053 Maximum Subarray](053-maximum-subarray.py)
 - [x] [055 Jump Game](055-jump-game.py)
 - [x] [056 Merge Intervals](056-merge-intervals.py)
+- [x] [062 Unique Paths](062-unique-paths.py)
