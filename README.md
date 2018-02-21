@@ -23,3 +23,4 @@
 - [x] [049 Group Anagrams](049-group-anagrams.py)
 - [x] [048 Rotate Image](048-rotate-image.py)
 - [x] [053 Maximum Subarray](053-maximum-subarray.py)
+- [x] [055 Jump Game](055-jump-game.py)
