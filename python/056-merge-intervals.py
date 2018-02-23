@@ -1,9 +1,10 @@
-# Definition for an interval.
-class Interval:
-    def __init__(self, s=0, e=0):
-        self.start = s
-        self.end = e
-
+# 先把他依照左界排序好
+# 接著一個個放到stack中 檢查和top有沒有重疊, 有的話就merge
+# 為什麼需要檢查跟top就好 他不會一直merge下去嗎?
+# [G1][G2]X
+# 不會
+# 因為從G2開始已經完全跟G1隔離了 不可能再有merge的機會
+# 而且因為是依照start排序的 所以X.start一定大於G2.start 不會有跨越到G1的機會
 class Solution:
     def merge(self, intervals):
         """

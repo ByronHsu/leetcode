@@ -26,3 +26,7 @@
 - [x] [055 Jump Game](./python/055-jump-game.py)
 - [x] [056 Merge Intervals](./python/056-merge-intervals.py)
 - [x] [062 Unique Paths](./python/062-unique-paths.py)
+- [x] [096 Unique Binary Search Trees](./python/096-unique-binary-search-trees.py)
+- [x] [070 Climbing Stairs](./python/070-climbing-stairs.py)
+- [x] [075 Sort Colors](./python/075-sort-colors.py)
+- [x] [072 Edit Distance](./python/072-edit-distance.py)
