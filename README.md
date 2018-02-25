@@ -31,3 +31,5 @@
 - [x] [075 Sort Colors](./python/075-sort-colors.py)
 - [x] [072 Edit Distance](./python/072-edit-distance.py)
 - [x] [076 Minimum Window Substring](./python/076-minimum-window-substring.py)
+- [x] [078 Subsets](./python/078-subsets.py)
+- [x] [084 Largest Rectangle in Histogram](./python/084-largest-rectangle-in-histogram.py)
