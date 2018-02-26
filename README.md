@@ -33,3 +33,5 @@
 - [x] [076 Minimum Window Substring](./python/076-minimum-window-substring.py)
 - [x] [078 Subsets](./python/078-subsets.py)
 - [x] [084 Largest Rectangle in Histogram](./python/084-largest-rectangle-in-histogram.py)
+- [x] [079 Word Search](./python/079-word-search.py)
+- [x] [085 Maximal Rectangle](./python/085-maximal-rectangle.py)
