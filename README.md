@@ -1,7 +1,7 @@
 # Leetcode practice
 - [x] [001 Two Sum](./python/001-two-sum.py)
 - [x] [002 Add Two Numbers](./python/002-add-two-numbers.py)
-- [x] [003 Longest Substring Without Repeating Characters](./python/003-longest-substring-without-repeating-characters.py)    
+- [x] [003 Longest Substring Without Repeating Characters](./python/003-longest-substring-without-repeating-characters.py)
 - [x] [004 Median of Two Sorted Arrays](./python/004-median-of-two-sorted-arrays.py)
 - [x] [005 Longest Palindromic Substring](./python/005-longest-palindromic-substring.py)
 - [x] [015 3Sum](./python/015-3sum.py)
@@ -35,3 +35,6 @@
 - [x] [084 Largest Rectangle in Histogram](./python/084-largest-rectangle-in-histogram.py)
 - [x] [079 Word Search](./python/079-word-search.py)
 - [x] [085 Maximal Rectangle](./python/085-maximal-rectangle.py)
+- [x] [094 Binary Tree Inorder Traversal](./python/094-binary-tree-inorder-traversal.py)
+- [x] [098 Validate Binary Search Tree](./python/098-validate-binary-search-tree.py)
+- [x] [124 Binary Tree Maximum Path Sum](./python/124-binary-tree-maximum-path-sum.py)
