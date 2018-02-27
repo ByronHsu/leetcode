@@ -38,3 +38,5 @@
 - [x] [094 Binary Tree Inorder Traversal](./python/094-binary-tree-inorder-traversal.py)
 - [x] [098 Validate Binary Search Tree](./python/098-validate-binary-search-tree.py)
 - [x] [124 Binary Tree Maximum Path Sum](./python/124-binary-tree-maximum-path-sum.py)
+- [x] [064 Minimum Path Sum](./python/064-minimum-path-sum.py)
+- [x] [128 Longest Consecutive Sequence](./python/128-longest-consecutive-sequence.py)
