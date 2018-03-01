@@ -41,3 +41,6 @@
 - [x] [064 Minimum Path Sum](./python/064-minimum-path-sum.py)
 - [x] [128 Longest Consecutive Sequence](./python/128-longest-consecutive-sequence.py)
 - [x] [102 Binary Tree Level Order Traversal](./python/102-binary-tree-level-order-traversal.py)
+- [x] [105 Construct Binary Tree from Preorder and Inorder Traversal](./python/105-construct-binary-tree-from-preorder-and-inorder-traversal.py)
+- [x] [101 Symmetric Tree](./python/101-symmetric-tree.py)
+- [] [121 Best Time to Buy and Sell Stock](./python/121-best-time-to-buy-and-sell-stock.py)
