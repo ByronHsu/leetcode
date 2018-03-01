@@ -43,4 +43,4 @@
 - [x] [102 Binary Tree Level Order Traversal](./python/102-binary-tree-level-order-traversal.py)
 - [x] [105 Construct Binary Tree from Preorder and Inorder Traversal](./python/105-construct-binary-tree-from-preorder-and-inorder-traversal.py)
 - [x] [101 Symmetric Tree](./python/101-symmetric-tree.py)
-- [] [121 Best Time to Buy and Sell Stock](./python/121-best-time-to-buy-and-sell-stock.py)
+- [x] [121 Best Time to Buy and Sell Stock](./python/121-best-time-to-buy-and-sell-stock.py)
