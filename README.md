@@ -44,3 +44,7 @@
 - [x] [105 Construct Binary Tree from Preorder and Inorder Traversal](./python/105-construct-binary-tree-from-preorder-and-inorder-traversal.py)
 - [x] [101 Symmetric Tree](./python/101-symmetric-tree.py)
 - [x] [121 Best Time to Buy and Sell Stock](./python/121-best-time-to-buy-and-sell-stock.py)
+- [x] [136 Single Number](./python/136-single-number.py)
+- [] [146 LRU Cache](./python/146-LRU-cache.py)
+- [] [139 Word Break](./python/139-word-break.py)
+- [x] [141 Linked List Cycle](./python/141-linked-list-cycle.py)
