@@ -54,3 +54,4 @@
 - [x] [239. Sliding Window Maximum](./python/239-sliding-window-maximum.py)
 - [] [312. Burst Balloons](./python/312-burst-ballons.py)
 - [x] [169. Majority Element](./python/169-majority-element.py)
+- [] [315. Count of Smaller Numbers After Self](./python/315-count-of-smaller-numbers-after-self.py)
