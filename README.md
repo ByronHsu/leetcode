@@ -50,3 +50,7 @@
 - [x] [141 Linked List Cycle](./python/141-linked-list-cycle.py)
 - [x] [142. Linked List Cycle II](./python/142-linked-list-cycle-II.py)
 - [x] [152. Maximum Product Subarray](./python/152-maximum-product-subarray.py)
+- [x] [215. Kth Largest Element in an Array](./python/215-Kth-largest-element-in-an-array.py)
+- [x] [239. Sliding Window Maximum](./python/239-sliding-window-maximum.py)
+- [] [312. Burst Balloons](./python/312-burst-ballons.py)
+- [x] [169. Majority Element](./python/169-majority-element.py)
