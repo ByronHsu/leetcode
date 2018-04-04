@@ -1,18 +1,17 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
 from queue import PriorityQueue
 
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-    def printList(self):
-        now = self
-        print(now.val, end='')
-        now = now.next
-        while now != None:
-          print('->{}'.format(now.val), end='')
-          now = now.next
-        print()
+class Element:
+    def __init__(self, node, val):
+        self.node = node
+        self.val = val
+    def __lt__(self, other):
+        return self.val < other.val
 
 class Solution:
     def mergeKLists(self, lists):
@@ -20,34 +19,15 @@ class Solution:
         :type lists: List[ListNode]
         :rtype: ListNode
         """
-        dummy = ListNode(None)
-        curr = dummy
         pq = PriorityQueue()
-        for i, e in enumerate(lists):
-          # print(e.val)
-          if e:
-            pq.put((e.val, i, e))
-        
-        while pq.qsize() > 0:
-          pop = pq.get()
-          curr.next, li = pop[2], pop[1]
-          curr = curr.next
-          if curr.next: pq.put((curr.next.val, li, curr.next))
+        for l in lists:
+            if l: pq.put(Element(l, l.val))
+
+        dummy = cur = ListNode(0)
+
+        while not pq.empty():
+            top = pq.queue[0]
+            cur.next = pq.get()
+            if top.next: pq.put(Element(top.next, top.next.val))
+            cur = cur.next
         return dummy.next
-
-def construct(L):
-  if len(L):
-    head = ListNode(L[0])
-  else:
-    head = None
-  now = head
-  for i in range(1, len(L)):
-    now.next = ListNode(L[i])
-    now = now.next
-  return head
-
-def test(L):
-  print('ans: {}'.format(Solution().mergeKLists(L).printList()))
-
-if __name__ == '__main__':
-  test([construct([2, 2, 4]), construct([1, 3, 4]), construct([1, 3, 4]), construct([1, 3, 4]), construct([1, 3, 4])])
