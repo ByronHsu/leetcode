@@ -74,3 +74,7 @@
 - [x] [218. The Skyline Problem](./python/218-the-skyline-problem.py)
 - [x] [347. Top K Frequent Elements](./python/347-top-K-frequent-elements.py)
 - [x] [494. Target Sum](./python/494-target-sum.py)
+- [x] [617. Merge Two Binary Trees](./python/617-merge-two-binary-trees.py)
+- [x] [207. Course Schedule](./python/207-course-schedule.py)
+- [x] [543. Diameter of Binary Tree](./python/543-diameter-of-binary-tree.py)
+- [ ] [461. Hamming Distance](./python/461-hamming-distance.py)
