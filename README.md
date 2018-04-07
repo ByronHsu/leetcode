@@ -71,3 +71,6 @@
 - [x] [338. Counting Bits](./python/338-counting-bits.py)
 - [x] [148. Sort List](./python/148-sort-list.py)
 - [x] [301. Remove Invalid Parentheses](./python/301-remove-invalid-parentheses.py)
+- [x] [218. The Skyline Problem](./python/218-the-skyline-problem.py)
+- [x] [347. Top K Frequent Elements](./python/347-top-K-frequent-elements.py)
+- [x] [494. Target Sum](./python/494-target-sum.py)
